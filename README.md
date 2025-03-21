@@ -1,3 +1,4 @@
 # muskan-demo
 This is my first Git Repository
-Author-Muskan Sundrani
+<br>
+<h1>Author-Muskan Sundrani</h1>
